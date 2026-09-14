@@ -50,7 +50,7 @@
             <mxPoint x="1120" y="1008.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVNQHacpQ3Jxs6e7XKak-14" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;3/4 inch pipe&lt;/div&gt;" vertex="1">
+        <mxCell id="jVNQHacpQ3Jxs6e7XKak-14" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;1/2 inch pipe&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="860" y="964" as="geometry" />
         </mxCell>
         <mxCell id="jVNQHacpQ3Jxs6e7XKak-15" edge="1" parent="1" source="jVNQHacpQ3Jxs6e7XKak-16" style="endArrow=classic;html=1;rounded=0;exitX=0.455;exitY=-0.1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -98,13 +98,13 @@
             <mxPoint x="1400" y="1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVNQHacpQ3Jxs6e7XKak-25" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;3/4 inch pipe&lt;/div&gt;" vertex="1">
+        <mxCell id="jVNQHacpQ3Jxs6e7XKak-25" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;1/2 inch pipe&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="1190" y="959" as="geometry" />
         </mxCell>
         <mxCell id="jVNQHacpQ3Jxs6e7XKak-27" parent="1" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.piping.concentric_reducer;rotation=-180;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="1320" y="989" as="geometry" />
         </mxCell>
-        <mxCell id="jVNQHacpQ3Jxs6e7XKak-28" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;1 inch to 3/4 inch reducer&lt;/div&gt;" vertex="1">
+        <mxCell id="jVNQHacpQ3Jxs6e7XKak-28" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="&lt;div&gt;1 inch to 1/2 inch reducer&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="1290" y="1044" as="geometry" />
         </mxCell>
         <mxCell id="jVNQHacpQ3Jxs6e7XKak-29" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#808080;endArrow=none;endSize=10;dashed=0;verticalAlign=bottom;strokeWidth=4;rounded=0;endFill=0;entryX=0.35;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="jVNQHacpQ3Jxs6e7XKak-32" value="">
