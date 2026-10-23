@@ -256,6 +256,15 @@
             <mxPoint x="1600" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;3/4&quot; elbow&lt;/div&gt;&lt;div&gt;(missing)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="70" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="425" as="sourcePoint" />
+            <mxPoint x="210" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
