@@ -142,7 +142,7 @@
             <mxPoint x="1230" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GO0mitBsUnszQkGecKDW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;1&quot; section&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
+        <mxCell id="GO0mitBsUnszQkGecKDW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;#12 - 1&quot; section&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1170" y="470" as="geometry" />
         </mxCell>
         <mxCell id="GO0mitBsUnszQkGecKDW-19" parent="1" style="shape=tee;whiteSpace=wrap;html=1;rotation=-180;" value="" vertex="1">
@@ -184,7 +184,7 @@
             <mxPoint x="1390" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GO0mitBsUnszQkGecKDW-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;1&quot; section&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
+        <mxCell id="GO0mitBsUnszQkGecKDW-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;#12 - 1&quot; section&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1330" y="470" as="geometry" />
         </mxCell>
         <mxCell id="GO0mitBsUnszQkGecKDW-29" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=9.63;dx=39.74;notch=0;arrowHead=55;rounded=0;strokeWidth=1;flipH=1;legacyAnchorPoints=0;rotation=90;" value="" vertex="1">
@@ -229,7 +229,7 @@
             <mxPoint x="1594.5" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GO0mitBsUnszQkGecKDW-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;200 mm 1&quot;&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
+        <mxCell id="GO0mitBsUnszQkGecKDW-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;#12 - 200 mm 1&quot;&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1684" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="GO0mitBsUnszQkGecKDW-49" parent="1" style="shape=or;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
@@ -309,6 +309,15 @@
         </mxCell>
         <mxCell id="GO0mitBsUnszQkGecKDW-69" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;" value="&lt;div&gt;The threaded connection should be a female connection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Our measuring device has a male thread.&lt;/div&gt;" vertex="1">
           <mxGeometry height="220" width="180" x="1350" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;div&gt;#12 - 1&quot; section&lt;/div&gt;&lt;div&gt;SS-T16-S-095-20E&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1650" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-71" edge="1" parent="1" source="GO0mitBsUnszQkGecKDW-70" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.46;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1650" y="235" as="sourcePoint" />
+            <mxPoint x="1606" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
