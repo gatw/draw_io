@@ -265,6 +265,15 @@
             <mxPoint x="210" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SS-1610-9" vertex="1">
+          <mxGeometry height="30" width="86" x="1664" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GO0mitBsUnszQkGecKDW-55" edge="1" parent="1" source="GO0mitBsUnszQkGecKDW-54" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.46;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1394" y="390" as="sourcePoint" />
+            <mxPoint x="1620" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
